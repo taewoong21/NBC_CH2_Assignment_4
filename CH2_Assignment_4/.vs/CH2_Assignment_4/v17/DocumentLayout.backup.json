@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\RecipeManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\RecipeManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\CH2_Assignment_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\AlchemyWorkshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\AlchemyWorkshop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\RecipeManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\RecipeManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\AlchemyWorkshop.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\AlchemyWorkshop.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\StockManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\StockManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\StockManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\StockManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\PotionRecipe.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\PotionRecipe.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\PotionRecipe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14ACC050-1064-437E-A8AF-CF306BFA568A}|CH2_Assignment_4\\CH2_Assignment_4.vcxproj|solutionrelative:CH2_Assignment_4\\PotionRecipe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeManager.cpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\RecipeManager.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\RecipeManager.cpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\RecipeManager.cpp",
+              "RelativeToolTip": "CH2_Assignment_4\\RecipeManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:24:15.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockManager.cpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\StockManager.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\StockManager.cpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\StockManager.cpp",
+              "RelativeToolTip": "CH2_Assignment_4\\StockManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:24:26.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlchemyWorkshop.cpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\AlchemyWorkshop.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\AlchemyWorkshop.cpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\AlchemyWorkshop.cpp",
+              "RelativeToolTip": "CH2_Assignment_4\\AlchemyWorkshop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:24:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CH2_Assignment_4.cpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\CH2_Assignment_4.cpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4.cpp",
+              "RelativeToolTip": "CH2_Assignment_4\\CH2_Assignment_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T08:55:42.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PotionRecipe.cpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\PotionRecipe.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\PotionRecipe.cpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\PotionRecipe.cpp",
+              "RelativeToolTip": "CH2_Assignment_4\\PotionRecipe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T11:24:04.686Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PotionRecipe.hpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\PotionRecipe.hpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\PotionRecipe.hpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\PotionRecipe.hpp",
+              "RelativeToolTip": "CH2_Assignment_4\\PotionRecipe.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:22:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlchemyWorkshop.hpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\AlchemyWorkshop.hpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\AlchemyWorkshop.hpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\AlchemyWorkshop.hpp",
+              "RelativeToolTip": "CH2_Assignment_4\\AlchemyWorkshop.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:23:52.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeManager.hpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\RecipeManager.hpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\RecipeManager.hpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\RecipeManager.hpp",
+              "RelativeToolTip": "CH2_Assignment_4\\RecipeManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:23:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockManager.hpp",
+              "DocumentMoniker": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\StockManager.hpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_4\\StockManager.hpp",
+              "ToolTip": "C:\\GitForNBC\\NBC_CH2_Assignment_4\\CH2_Assignment_4\\CH2_Assignment_4\\StockManager.hpp",
+              "RelativeToolTip": "CH2_Assignment_4\\StockManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T11:23:16.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
